@@ -4,12 +4,9 @@
 > 基于 Cloudflare Pages 的静态站点模板
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-4FACFE?logo=githubpages&logoColor=white)](https://491034170.github.io/cloudflare-site/)
 [![Deploy on Cloudflare](https://img.shields.io/badge/deploy-Cloudflare%20Pages-F38020?logo=cloudflare&logoColor=white)](https://pages.cloudflare.com)
 
 ## 用途 / What it is
-
-- 在线预览 / Live demo: <https://491034170.github.io/cloudflare-site/>
 
 一个极简的 Cloudflare Pages 静态站点起步模板,用于快速部署:
 
